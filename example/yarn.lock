@@ -6339,7 +6339,7 @@ react-github-corner@^2.3.0:
   integrity sha512-yVh8wtAfVA5CQYn8ygyxtsuCMoyiSEBVnzQJ3ynyWxZ1BzT2MHop4baZn/PnUnU9Yh8mwhLS5Y1RVxM5zNotGw==
 
 "react-polls@file:..":
-  version "1.1.0"
+  version "1.2.0"
   dependencies:
     animate.css "^3.7.0"
 
